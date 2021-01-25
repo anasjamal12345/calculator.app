@@ -1,0 +1,95 @@
+@media screen and (max-width: 100%){
+    .calculater {
+        width: 536px;
+        height: auto;
+    }
+
+
+}
+@media screen and (max-width: 800px){
+    .calculater {
+        width: 500px;
+        height: auto;
+    }
+
+
+}
+@media screen and (max-width: 600px){
+    .calculater {
+        width: 250px;
+        height: auto;
+    }
+
+}
+@media screen and (max-width: 400px){
+    .calculater {
+        width: 100px;
+        height: auto;
+    }
+
+}
+
+
+
+body { 
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5UaqAz3zXImCrMXNmYwGzJtzIG-u0bxntgQ&usqp=CAU);
+}
+
+.calculater {
+    border:  8px solid rgb(13, 22, 39);
+    border-radius: 3%;
+    width: 536px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 10%;
+
+}
+.btn{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 8%;
+    font-size: 30px ;
+    width: 130px;
+    height: 50px;
+    color: white;
+    background-color: rgb(99, 39, 39)
+}
+
+#calc {
+    font-size: 30px ;
+    border-radius: 8%;
+    width: 130px;
+    height: 50px;
+    color: white;
+    background-color: rgb(182, 25, 25)
+}
+
+.clearresult {
+    border-radius: 5%;
+    font-size: 30px ;
+    width: 532px;
+    height: 50px;
+    color: white;
+    background-color: rgb(137, 155, 75)
+}
+
+#get-input {
+    width: 526px;
+    height: 60px;
+    font-size: 110%;
+}
+
+.input-holder {
+    text-align: center;
+}
+
+.calc-body {
+
+    padding: 2px;
+}
+.caption {
+    text-align: center;
+    flex-wrap: nowrap;
+    margin: 0 auto;
+    color: rgb(51, 22, 22);
+    font-size: 19px;
+} 
