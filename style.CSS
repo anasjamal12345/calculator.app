@@ -32,7 +32,7 @@
 
 
 body { 
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5UaqAz3zXImCrMXNmYwGzJtzIG-u0bxntgQ&usqp=CAU);
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/back_pic/04/50/75/85585d27229af16.jpg);
 }
 
 .calculater {
@@ -86,10 +86,3 @@ body {
 
     padding: 2px;
 }
-.caption {
-    text-align: center;
-    flex-wrap: nowrap;
-    margin: 0 auto;
-    color: rgb(51, 22, 22);
-    font-size: 19px;
-} 
